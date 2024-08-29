@@ -1,4 +1,14 @@
-## Hi there 👋
+##Boas Vindas ao meu perfil
+Meu nome é Rian
+
+Estou desenvolvendo scratch e javascript, além do alura
+
+![](https://media1.tenor.com/m/GzcI4O6kRiwAAAAC/crying-boy.gif)
+
+
+curriculo
+
+
 
 <!--
 **estudantealuraRI/estudantealuraRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
